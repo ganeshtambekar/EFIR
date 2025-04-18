@@ -161,8 +161,7 @@ EFIR is a comprehensive complaint management platform built using the MERN stack
 
 Have feedback or want to collaborate? Join us in transforming legal systems with EFIR!
 
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
-- **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/efir/issues)
+- **Project Maintainer**: Ganesh Tambekar(mailto:ganesh.tambekar124@gmail.com)
 
 ---
 
